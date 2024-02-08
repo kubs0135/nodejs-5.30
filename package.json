@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-5.30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.1",
+    "homekit-code": "^1.2.13",
+    "lodash": "^4.17.21",
+    "nice-is-email": "^1.0.3",
+    "slug": "^8.2.3"
+  }
+}
